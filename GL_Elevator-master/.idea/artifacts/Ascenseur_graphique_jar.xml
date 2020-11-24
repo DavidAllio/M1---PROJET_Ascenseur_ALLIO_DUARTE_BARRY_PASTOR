@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Ascenseur_graphique:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Ascenseur_graphique_jar</output-path>
+    <root id="archive" name="Ascenseur_graphique.jar">
+      <element id="module-output" name="Ascenseur_graphique" />
+    </root>
+  </artifact>
+</component>
